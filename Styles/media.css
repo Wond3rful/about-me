@@ -1,0 +1,52 @@
+@media screen and (max-device-width: 480px)
+{
+	.logo
+	{
+		position: absolute;
+    	top: 50%;
+    	left: 50%;
+    	transform: translate(-50%, -50%);
+		height: 900px;
+	}
+	.logo-title
+	{
+		font-size: 50px;
+		float: none;
+		margin-top: 45px;
+		margin-left: 90px;
+	}
+	.logo-desc
+	{
+		text-align: center;
+		width: auto;
+		font-size: 35px;
+		float: none;
+		margin-top: 5px;
+		margin-left: 40px;
+	}
+	.logo-img 
+	{
+		margin-top: 15px;
+		width: 430px;
+		height: 430px;
+		float: none;
+		margin-left: 60px;
+	}
+	.contact-element-github, .contact-element-vk, .contact-element-post
+	{
+		margin: 0 15px 15px 0;
+	}
+	.contact-list
+	{
+		margin-top: 63.5px;
+		margin-left: -45px;
+		width: 450px;
+	}
+	.vk, .github, .post
+	{
+		width: 63px;
+		height: 63px;
+	}
+
+}
+

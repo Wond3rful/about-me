@@ -1,0 +1,25 @@
+.contact-list
+{
+	width: 250px;
+	list-style-type: none;
+	margin-left: -44px;
+	margin-top: 33.5px;
+}
+
+.contact-element-github, .contact-element-vk, .contact-element-post
+{
+	display: inline-block;
+	margin: 0 10px 10px 0;
+}
+
+
+.contact-link
+{
+	text-decoration: none;
+}
+
+.vk, .github, .post
+{
+	width: 43px;
+	height: 43px;
+}
